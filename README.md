@@ -1,5 +1,6 @@
 *TerminalX Android Terminal Emulator 
-TerminalX — Modern Android Terminal Environment
+
+erminalX — Modern Android Terminal Environment
 TerminalX is a clean, lightweight, and modern command‑line environment designed for Android.
 Built for developers, power‑users, students, and anyone who wants a fast, minimal, and distraction‑free terminal on mobile.
 
